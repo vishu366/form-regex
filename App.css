@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.on-text{
+  background-color: black;
+  color: white;
+}
+
+.cointaner{
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  height: 400px;
+  width: 600px;
+  align-items: center;
+}
+.button{
+  background-color: red;
+  color: black;
+}
